@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1e30801931ca374eafca8eabdcbab7f, type: 3}
+  m_Name: BulletSO 2
+  m_EditorClassIdentifier: 
+  Listbullet:
+  - {fileID: 5002385532296975051, guid: 94f7223d71d05bc45be8bb2e634eb663, type: 3}
+  - {fileID: 5002385532296975051, guid: c80f316c21d864d41959a44798d36220, type: 3}
+  - {fileID: 5002385532296975051, guid: b881e96c5a4994c40b87867b07948365, type: 3}
+  shopIcon: {fileID: 21300000, guid: 18a89d42ad115a44682ccb23ea87fd6c, type: 3}
+  PointToBuy: 5500
+  IsEquiped: 0
+  BulletTypeName: spinBullet
